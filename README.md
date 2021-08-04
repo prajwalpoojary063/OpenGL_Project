@@ -2,5 +2,5 @@
 Computer Graphics on USE OF SOCIAL DISTANCING IN PREVENTING THE CORONA VIRUS
 
 #Preview
-1.![](ScreenShots/1.png)
+1.![Intro](ScreenShots/1.png)
 
