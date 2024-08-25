@@ -12,4 +12,4 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/2D-Visualization-Tool.git
+   git clone https://github.com/prajwalpoojary063/OpenGL_Project.git
