@@ -1,5 +1,5 @@
 #Project<br />
-Computer Graphics on USE OF SOCIAL DISTANCING IN PREVENTING THE CORONA VIRUS<br />
+2D visualization tool using OpenGL to demonstrate how social distancing helps in preventing the spread of COVID-19. The project features simulations of public spaces illustrating the impact of social distancing measures on virus transmission. The tool visually highlights the benefits of maintaining physical distance to reduce infection rates, supporting public health initiatives.<br />
 
 #Preview<br />
 
